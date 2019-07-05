@@ -13,6 +13,7 @@ def translate(phrase):
 
 print(translate(input("Enter a phrase: ")))
 print(my name is adham)
+print(do you want to help)
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
