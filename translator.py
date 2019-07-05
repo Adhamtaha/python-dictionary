@@ -12,6 +12,8 @@ def translate(phrase):
     return translation
 
 print(translate(input("Enter a phrase: ")))
+print(my name is adham)
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 
@@ -19,3 +21,10 @@ print(translate(input("Enter a phrase: ")))
 
 >>>>>>> 7b7abd71a8adbbf0bc59a2b6798966de97dd24b4
 
+=======
+print("hej med dig")
+#make a comment
+
+
+
+>>>>>>> 7b7abd71a8adbbf0bc59a2b6798966de97dd24b4
