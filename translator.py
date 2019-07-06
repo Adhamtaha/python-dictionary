@@ -12,8 +12,7 @@ def translate(phrase):
     return translation
 
 print(translate(input("Enter a phrase: ")))
-print(my name is adham)
-name = "jacob"
+
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -23,8 +22,6 @@ name = "jacob"
 >>>>>>> 7b7abd71a8adbbf0bc59a2b6798966de97dd24b4
 
 =======
-print("hej med dig")
-#make a comment
 
 
 
