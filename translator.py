@@ -16,19 +16,11 @@ print(my name is adham)
 <<<<<<< HEAD
 print(do you want to help)
 =======
-name = "jacob"
->>>>>>> ec597273ddb3357e42174f9f8b91b905e436d6b1
+
+>>>>>>> ced87360b6784ffb03de08979011f5f5482d6287
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
-
-
-
->>>>>>> 7b7abd71a8adbbf0bc59a2b6798966de97dd24b4
 
 =======
-print("hej med dig")
-#make a comment
 
 
 
